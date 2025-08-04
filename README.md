@@ -15,17 +15,4 @@ This application:
 
 > 📄 Complete documentation, including setup and technical notes, can be found in `BoschAutovisionX_1Neuron.docx`.
 
----
-
-## 🗂️ Repository Structure
-
-```plaintext
-Project3/
-├── Project3/              # Source files (CAF.cpp, FileName.cpp)
-├── x64/
-│   └── Release/
-│       ├── DesiredOutput/  # Sample stitched results
-│       └── Project3.exe    # CLI executable
-├── StaticLinkedExecutable/ # Statically linked version (no dependencies)
-└── BoschAutovisionX_1Neuron.docx  # Detailed report and setup guide
 
